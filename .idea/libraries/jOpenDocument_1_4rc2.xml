@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="jOpenDocument-1.4rc2">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../jOpenDocument-1.4rc2.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/../jOpenDocument-1.4rc2.jar!/" />
+    </SOURCES>
+  </library>
+</component>
